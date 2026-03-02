@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hemp3dresin.com/sitemap.xml
