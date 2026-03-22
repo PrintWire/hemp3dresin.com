@@ -1,0 +1,183 @@
+baseURL = "https://hemp3dresin.com/"
+languageCode = "en-us"
+title = "Hemp 3D Resin"
+theme = "printwire"
+
+[params]
+tagline       = "Sustainable hemp-reinforced photopolymer resins for SLA and MSLA 3D printing — high bio-content, low carbon footprint."
+description   = "Hemp 3D Resin covers bio-derived photopolymer materials for desktop and industrial SLA printing — hemp fibre reinforced resins, bio-based monomers, and sustainable composite AM feedstocks."
+keywords      = "hemp resin 3D printing, bio-resin SLA, hemp photopolymer, sustainable 3D printing resin, bio-composite SLA, plant-based 3D resin"
+logoEmoji     = "🌱"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#4ade80"
+colorPrimaryDark  = "#22c55e"
+colorPrimaryLight = "#86efac"
+colorBgDark       = "#030a05"
+colorBgSection    = "#060e07"
+colorBgCard       = "#0a140b"
+colorBgCardHover  = "#0e1c10"
+
+fontPrimary   = "Rajdhani"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"]
+
+heroEyebrow  = "Bio-Composite Resins"
+heroTitle    = "Hemp <em>3D Resin</em>"
+heroSubtitle = "Sustainable hemp-reinforced photopolymer resins for SLA and MSLA 3D printing — high bio-content, low carbon footprint."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+overviewTitle   = "Sustainable Bio-Resin for SLA Printing"
+overviewText    = "Hemp fibre reinforced photopolymers for SLA and MSLA printers — delivering improved toughness, reduced brittleness, and significantly lower embodied carbon than petroleum-derived resins."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Hemp 3D Resin Services"
+servicesSubtitle = "Sustainable hemp-reinforced photopolymer resins for SLA and MSLA 3D printing — high bio-content, low carbon footprint."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Sustainable hemp-reinforced photopolymer resins for SLA and MSLA 3D printing — high bio-content, low carbon footprint."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 40
+suffix = "%"
+label  = "Bio-Content (Hemp Resin)"
+
+[[params.stats]]
+count  = 60
+suffix = "%"
+label  = "Carbon Footprint Reduction"
+
+[[params.stats]]
+count  = 2
+suffix = "x"
+label  = "Toughness vs Standard Resin"
+
+[[params.stats]]
+count  = 25
+suffix = "µm"
+label  = "Layer Resolution"
+
+
+[[params.applications]]
+title       = "Sustainable Prototyping"
+description = "Low-carbon concept models and functional prototypes for sustainability-focused brands."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+[[params.applications]]
+title       = "Packaging Tooling"
+description = "Hemp composite jigs, fixtures, and mould tools for eco-conscious packaging production."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+[[params.applications]]
+title       = "Architectural Models"
+description = "Bio-composite architectural models and detail parts with natural fibre texture."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+[[params.applications]]
+title       = "Research & Education"
+description = "Academic and R&D use of bio-derived photopolymers for materials science investigation."
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🌱"
+title       = "Hemp Resin Supply"
+description = "Hemp-reinforced MSLA photopolymers in standard 500ml and 1L bottles — compatible with all 405nm SLA printers."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Bio-Resin Printing"
+description = "SLA/MSLA printing service using hemp and flax reinforced bio-resins — sustainable parts with material data sheets."
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Custom Formulation"
+description = "Custom bio-resin formulations for specific mechanical, colour, or bio-content requirements."
+
+[[params.servicesPreview]]
+icon        = "♻️"
+title       = "Sustainability Consulting"
+description = "Life cycle analysis and sustainability reporting for additive manufacturing operations adopting bio-materials."
+
+
+[[params.services]]
+name        = "Hemp Resin Supply"
+description = "Hemp-reinforced MSLA photopolymers in standard 500ml and 1L bottles — compatible with all 405nm SLA printers."
+icon        = "🌱"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+[[params.services]]
+name        = "Bio-Resin Printing"
+description = "SLA/MSLA printing service using hemp and flax reinforced bio-resins — sustainable parts with material data sheets."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+[[params.services]]
+name        = "Custom Formulation"
+description = "Custom bio-resin formulations for specific mechanical, colour, or bio-content requirements."
+icon        = "⚗️"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+[[params.services]]
+name        = "Sustainability Consulting"
+description = "Life cycle analysis and sustainability reporting for additive manufacturing operations adopting bio-materials."
+icon        = "♻️"
+image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintcomposites.com"
+url         = "https://3dprintcomposites.com"
+description = "Composite 3D printing"
+
+[[params.clusterLinks]]
+name        = "hemp3dresins.com"
+url         = "https://hemp3dresins.com"
+description = "Hemp bio-resin materials"
+
+[[params.clusterLinks]]
+name        = "3dprintfood.com"
+url         = "https://3dprintfood.com"
+description = "Food 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
